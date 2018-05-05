@@ -1,4 +1,2 @@
-# UdacityNano
-Labs and Projects for Udacity Frontend WebDev NanoDegree 
-
-Demonstrating my skills with HTML, CSS & JavaScript with web projects. 
+# NanoDegree Responsive Website
+Demonstrating my skills with HTML5, CSS3(Flexbox) & JavaScript on a responsive website. 
